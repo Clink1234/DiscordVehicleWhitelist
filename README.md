@@ -1,11 +1,6 @@
 # DiscordVehicleWhitelist
 A Discord vehicle white-list script for FiveM
-**Discord Vehicle Whitelist- By FAXES**
-
-## [Support Discord](https://faxes.zone/discord)
-
-**About**
-Hello all. For my 40th release here on the forums, I thought let's make it something cool(ish)? So I introduce to you a Discord (role) Vehicle Whitelist! This is a nice simple script, easy to set up (for people that can read). It allows you to guess? Make a vehicle whitelist based on a users role in Discord. This has been requested a few times so here she is, for you!
+**Discord Vehicle Whitelist- By FAXES Modified by Clink123**
 
 **Features**
 - Vehicle whitelist, based on Discord roles
@@ -16,11 +11,10 @@ Hello all. For my 40th release here on the forums, I thought let's make it somet
 @IllusiveTea's [Discord Role For Permission Script](https://forum.fivem.net/t/discord-roles-for-permissions-im-creative-i-know/233805) - **Ensure that it is the one from the master branch!**
 
 **Installation**
-https://docs.faxes.zone/docs/discord-vehicle-whitelist-setup/
+Simply drag and drop the resource, modifying the server.lua putting your discord roles and vehicles. Discord roles go in the [] while the vehicle names go in the {} comma separated. See the file for an example. Then, people without these roles will not be able to use the vehicle.
 
 <hr>
 
 **Credits**
 @IllusiveTea for his resource
-
-If you have any issues or comments please put them below. :newspaper:
+FAXES original DiscordVehicleWhitelist script
